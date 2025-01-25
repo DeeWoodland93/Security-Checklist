@@ -1,0 +1,17 @@
+# Security Tools
+
+## Static Code Analysis
+- [SonarQube](https://www.sonarqube.org/)
+- [Semgrep](https://semgrep.dev/)
+
+## Penetration Testing
+- [OWASP ZAP](https://owasp.org/www-project-zap/)
+- [Burp Suite](https://portswigger.net/burp)
+
+## Dependency Management
+- [Dependabot](https://github.com/dependabot)
+- [Snyk](https://snyk.io/)
+
+## Cloud Security
+- [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/trustedadvisor/)
+- [Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/)
